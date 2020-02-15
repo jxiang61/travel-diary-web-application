@@ -7,14 +7,14 @@ To see the app in action, go to:https://agile-wildwood-24392.herokuapp.com
 
 Tolls & Framworks
 -------------
-##HTML5
-##CSS3
-VANILLA JS
-NODE JS
-MONGODB
-EXPRESS
-EJS
-MONGO ATLAS
-GIT
-NODEMAILER
-MOMENTJS
+- **HTML5**
+- **CSS3**
+- **VANILLA JS**
+- **NODE JS** 
+- **MONGODB**
+- **EXPRESS**
+- **EJS**
+- **MONGO ATLAS**
+- **GIT**
+- **NODEMAILER**
+- **MOMENTJS**
