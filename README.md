@@ -9,12 +9,10 @@ Tolls & Framworks
 -------------
 - **HTML5**
 - **CSS3**
-- **VANILLA JS**
 - **NODE JS** 
 - **MONGODB**
 - **EXPRESS**
 - **EJS**
 - **MONGO ATLAS**
 - **GIT**
-- **NODEMAILER**
-- **MOMENTJS**
+
