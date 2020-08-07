@@ -1,4 +1,4 @@
-# YelpCamp-Web-Applications
+# Travel-Diary-Web-Application
 A Node.js web application project from the Udemy course
 
 Live Demo
